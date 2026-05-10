@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(228, 204, 172);
+}
+
+h1{
+    color: rgb(204, 30, 30);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+p{
+    color: rgb(143, 110, 67);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(230, 31, 31);
+}
+
+a:hover{
+    font-size: larger;
+    border-bottom: 2px solid rgb(230, 31, 31);
+}
+
+
+table, th, td{
+    border-bottom: 1px solid rgb(145, 134, 134);
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px 5px;
+}
+
+table{
+    width: 80%;
+    margin: 50px auto;
+    font-size: larger;
+}
+
+tr:hover{
+    background-color: rgb(150, 207, 187);
+    font-size: larger;
+}
